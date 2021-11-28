@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JSON</string>
+    <string name="btnHint">Загрузить картинка</string>
+    <string name="photo">Фото звезды</string>
+</resources>
